@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using ModelRepoDI.Data;
 using ModelRepoDI.Models;
 
 namespace ModelRepoDI.Repository.StudentRepo

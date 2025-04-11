@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using ModelRepoDI.Models;
 
-namespace ModelRepoDI
+namespace ModelRepoDI.Data
 {
     public class AppDbContext : DbContext
     {

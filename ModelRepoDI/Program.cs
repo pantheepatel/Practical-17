@@ -1,8 +1,8 @@
 using Microsoft.Extensions.Configuration;
-using ModelRepoDI;
 using Microsoft.EntityFrameworkCore;
 using ModelRepoDI.Repository.StudentRepo;
 using ModelRepoDI.Repository.AuthRepo;
+using ModelRepoDI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
